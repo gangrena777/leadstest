@@ -52,7 +52,7 @@ if (!empty($data['message']['text'])) {
 } 
 
 
-/*
+
 
 if (!empty($data['message']['text'])) {
 	$text = $data['message']['text'];
@@ -77,5 +77,5 @@ if (!empty($data['message']['text'])) {
 	} 
 }
 
-*/			
+			
 
